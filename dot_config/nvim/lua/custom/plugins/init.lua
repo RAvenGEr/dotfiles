@@ -10,7 +10,4 @@ return {
     'artoj/qmake-syntax-vim',
     lazy = false,
   },
-  {
-    'jamestthompson3/nvim-remote-containers',
-  },
 }
