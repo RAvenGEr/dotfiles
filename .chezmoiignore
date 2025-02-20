@@ -1,0 +1,3 @@
+{{ if ne .chezmoi.os "windows" }}
+symlink-neovim-config-win.ps1
+{{ end }}
