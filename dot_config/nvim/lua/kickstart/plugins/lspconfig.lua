@@ -243,7 +243,7 @@ return {
           },
         },
         ruff = { on_attach = ruff_on_attach },
-        -- neocmake = {},
+        neocmake = {},
 
         lua_ls = {
           -- cmd = { ... },
